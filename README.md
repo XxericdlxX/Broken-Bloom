@@ -14,7 +14,7 @@ Si fracasa, se transforma en <strong>goblin</strong>. Si tiene éxito, se convie
 <h2>🗂️ Estructura del repositorio</h2>
 <ul>
   <li><strong>Assets/</strong> → Scripts, escenas y recursos del juego.</li>
-  <li><strong>Broken Bloom Juego/</strong> → Carpeta principal del proyecto Unity.</li>
+  <li><strong>Broken Bloom Juego/</strong> → Carpeta del ejecutable del juego (Si quieres jugar descargala entera)</li>
   <li><strong>Game Design Document (GDD)/</strong> → Documento de diseño completo del juego.</li>
   <li><strong>Logo del Juego/</strong> → Variantes gráficas del logo.</li>
   <li><strong>Packages/</strong> → Dependencias gestionadas por Unity.</li>
